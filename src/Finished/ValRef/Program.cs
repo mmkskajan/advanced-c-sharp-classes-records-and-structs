@@ -30,5 +30,5 @@ Console.WriteLine($"p1: {p1.Name}");
 Console.WriteLine($"p2: {p2.Name}");
 
 public class Person {
-    public string Name;
+    public string? Name;
 }
